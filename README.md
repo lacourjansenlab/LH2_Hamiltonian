@@ -17,4 +17,4 @@ Positions.txt - Dye center positions (at Magnesium)\
 \
 The binary output files can be used as input for the NISE spectral calculation programme, which can be found at: https://github.com/GHlacour/NISE_2017
 
-Please, refer to the paper "Observation of ultrafast coherence transfer and degenerate states with polarization controlled two-dimensional electronic spectroscopy" by Andy S. Sardjan, Floris P. Westerman, Jennifer P. Ogilvie, and Thomas L.C. Jansen (Tanimura Feestschrift, reference will be updated when the paper is published) if you use this code.
+Please, refer to the paper "Observation of ultrafast coherence transfer and degenerate states with polarization controlled two-dimensional electronic spectroscopy" by Andy S. Sardjan, Floris P. Westerman, Jennifer P. Ogilvie, and Thomas L.C. Jansen (reference will be updated when the paper is published) if you use this code.
